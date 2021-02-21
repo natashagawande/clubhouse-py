@@ -5,7 +5,7 @@ Sample CLI Clubhouse Client
 
 RTC: For voice communication
 """
-
+#just making an edit to see if this works 
 import os
 import sys
 import threading
